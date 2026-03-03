@@ -47,7 +47,7 @@ https://example.com
 python -m venv .venv
 .venv/Scripts/Activate.ps1
 pip install -r requirements.txt
-
+```
 ## Примеры запуска 
 ```bash
 python bench.py -H https://ya.ru,https://www.test.com,https://www.lskdjghfsdgsdfhgsdfglsjkdfh.com -C 5
