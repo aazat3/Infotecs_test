@@ -40,11 +40,13 @@ python bench.py -help
 https://ya.ru
 https://google.com
 https://example.com
-
-## Установка зависимостей 
-```bash
-pip install -r requirements.txt
 ```
+
+## Быстрый старт 
+```bash
+python -m venv .venv
+.venv/Scripts/Activate.ps1
+pip install -r requirements.txt
 
 ## Примеры запуска 
 ```bash
